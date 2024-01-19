@@ -11,10 +11,9 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/choteri1πd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="choteri1πd" height="30" width="40" /></a>
+<a href="https://codepen.io/choteri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="choteri1πd" height="30" width="40" /></a>
 <a href="https://twitter.com/choterifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="choterifa" height="30" width="40" /></a>
-<a href="https://dribbble.com/carlos v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="carlos v" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/carlosv9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="carlosv9" height="30" width="40" /></a>
+<a href="https://dribbble.com/Choteri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="carlos v" height="30" width="40" /></a>
 </p>
 
 <br>
