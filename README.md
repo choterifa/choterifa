@@ -1,9 +1,8 @@
 <h1 align="center">Hola 👋, Soy Carlos Valencia</h1>
-<br>
 <h3 align="center">Soy un apasionado del desarrollo web y móvil; disfruto explorando interfaces que no solo transmitan, sino que también causen asombro. Me considero un catador oficial de indie apps. Además, disfruto del patinaje y la tecnología.</h3>
 
 <br>
-- 🔭 Actualmente estoy elaborando mi **Portfolio**
+- 🔭 Portafolio en proceso.
 
 - 🌱 Actualmente estoy aprendiendo **Html, Css, Javascript**
 
