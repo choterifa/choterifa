@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos E Valencia</h1>
-<h3 align="center">πSoy un apasionado del desarrollo web y móvil; disfruto explorando interfaces que no solo transmitan, sino que también causen asombro. Me considero un catador oficial de indie apps. Además, disfruto del patinaje y la tecnología.</h3>
+<h3 align="center">Soy un apasionado del desarrollo web y móvil; disfruto explorando interfaces que no solo transmitan, sino que también causen asombro. Me considero un catador oficial de indie apps. Además, disfruto del patinaje y la tecnología.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abses1&label=Profile%20views&color=0e75b6&style=flat" alt="abses1" /> </p>
 
