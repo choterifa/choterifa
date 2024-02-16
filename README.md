@@ -13,3 +13,5 @@
     alt="Gitmoji"
   />
 </a>
+
+<a href="https://app.daily.dev/choterifa"><img src="https://api.daily.dev/devcards/v2/PhlMMeX9XnKO1v9M3TEzc.png?r=yvo&type=default" width="356" alt="Carlos's Dev Card"/></a>
